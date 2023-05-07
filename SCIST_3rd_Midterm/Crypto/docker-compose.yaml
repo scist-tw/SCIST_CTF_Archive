@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  crypto-mid:
+    build:
+      context: .
+      dockerfile: Dockerfile.mid
+    image: crypto:3.9.15-mid
+    container_name: crypto-mid
+    restart: "always"
+    working_dir: /crypto
+    ports:
+      - 10300-10302:10300-10302

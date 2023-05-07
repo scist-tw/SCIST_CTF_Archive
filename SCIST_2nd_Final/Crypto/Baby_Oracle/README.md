@@ -1,0 +1,22 @@
+# Baby Oralce
+> author : hahabox  
+> solve : Curious
+
+## Challenge
+```
+Author : hahabox
+
+---
+
+`nc lab.scist.org 7000`
+```
+
+---
+## Files
+- `server.py`
+
+---
+## Flag
+```
+SCIST{1_4m_7h3_570rm_7h47_15_4ppr04ch1n6_pr0v0k1n6_bl4ck_cl0ud5_1n_150l4710n_1_4m_r3cl41m3r_0f_my_n4m3_b0rn_1n_fl4m35,_1_h4v3_b33n_bl3553d,_my_f4m1ly_cr357_15_4_d3m0n_0f_d347h}
+```
