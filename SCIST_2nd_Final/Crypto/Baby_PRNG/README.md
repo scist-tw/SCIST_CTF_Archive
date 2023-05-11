@@ -1,5 +1,6 @@
 # Baby PRNG
-> author : hahabox
+> author : hahabox  
+> solve : Curious
 
 ## Challenge
 ```
