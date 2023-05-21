@@ -6,7 +6,7 @@
 ```
 ![](/files/35d01f0df5ae02fe40248b409c38c133/FruteForce.png)
 
-flag : `SCIST{x * y % z}`
+flag : `SCIST{y ** x % z}`
 
 <br>
 
